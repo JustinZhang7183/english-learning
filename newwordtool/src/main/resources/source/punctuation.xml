@@ -1,0 +1,119 @@
+<wordbook><item>    <word>dot</word>
+    <trans><![CDATA[n.  点，小圆点，点状物；顿音记号；（摩尔斯电码、因特网或电子邮件地址中的）点；嫁妆
+v.  加点；散布于，遍布；给音符加附点；<古>击打
+【名】 （Dot）（英）多特（女子教名 Dorothea 和 Dorothy 的昵称），（中）多（广东话·威妥玛），（越）突（人名）]]></trans>
+    <phonetic><![CDATA[[dɒt]]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>1</progress>
+</item><item>    <word>exclamation point</word>
+    <trans><![CDATA[感叹号]]></trans>
+    <phonetic><![CDATA[[ˌekskləˈmeɪʃn pɔɪnt]]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>1</progress>
+</item><item>    <word>vertical bar</word>
+    <trans><![CDATA[竖线]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>1</progress>
+</item><item>    <word>ampersand</word>
+    <trans><![CDATA[n.  &的记号名称（＆等于 and）]]></trans>
+    <phonetic><![CDATA[[ˈæmpəsænd]]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>1</progress>
+</item><item>    <word>left parenthesis</word>
+    <trans><![CDATA[左括号]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>1</progress>
+</item><item>    <word>asterisk</word>
+    <trans><![CDATA[n.  星号；星号键
+vt.  注上星号；用星号标出]]></trans>
+    <phonetic><![CDATA[[ˈæstərɪsk]]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>1</progress>
+</item><item>    <word>underscore</word>
+    <trans><![CDATA[v.  强调；在……的下面划线
+n.  （尤指为强调）下划线；（打字机或电脑键盘上的字符）下划线]]></trans>
+    <phonetic><![CDATA[[ˌʌndəˈskɔː(r)]]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>1</progress>
+</item><item>    <word>semicolon</word>
+    <trans><![CDATA[n.分号]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>colon</word>
+    <trans><![CDATA[n.结肠；冒号；（哥斯达黎加和萨尔瓦多的标准货币单位）科朗]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>exclamation mark</word>
+    <trans><![CDATA[感叹号]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>question mark</word>
+    <trans><![CDATA[问号
+不确定性]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>full stop</word>
+    <trans><![CDATA[句号；[语] 句点]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>comma</word>
+    <trans><![CDATA[n.逗号；间歇，音差；银纹多角蛱蝶]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>punctuation</word>
+    <trans><![CDATA[n.标点符号，标点符号用法；（点断性平衡说提出的）新物种迅速（或突然）的形成]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>parentheses</word>
+    <trans><![CDATA[n.  圆括号；插入成分（parenthesis 的复数）]]></trans>
+    <phonetic><![CDATA[[pəˈrenθəsiːz]]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item><item>    <word>bracket</word>
+    <trans><![CDATA[n.  （固定在墙上的）托架，支架；（收入、年龄等的）等级段，组级；括号；夹叉射击;
+v.  把……置于括弧内，用括弧括；置于……两侧 ；把……归为一类，把……相提并论]]></trans>
+    <phonetic><![CDATA[[ˈbrækɪt]]]></phonetic>
+    <lanfrom><![CDATA[en]]></lanfrom>
+    <lanto><![CDATA[zh-CHS]]></lanto>
+    <tags>punctuation</tags>
+    <progress>-1</progress>
+</item></wordbook>
