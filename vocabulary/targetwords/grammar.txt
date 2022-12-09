@@ -1,0 +1,8 @@
+singular
+adjective
+auxiliary
+negative
+irregular
+objective
+subjective
+pronouns
