@@ -1,9 +1,0 @@
-schwa
-apostrophe
-phonetic
-mundane
-vowel
-rhythm
-syllable
-intonation
-consonant
