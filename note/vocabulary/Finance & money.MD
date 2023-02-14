@@ -1,0 +1,16 @@
+### Key words and phrases
+- thrifty
+- extravagant
+- be careful with money
+- be well / badly off
+- in the red
+- can't afford sth
+- save up for
+- pay off debt
+- cut back on her spending
+- rolling in the money
+- make ends meet
+- be in debt
+- be hard up
+- live off his parents
+- pay them back     
