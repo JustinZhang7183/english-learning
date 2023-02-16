@@ -20,3 +20,6 @@
 19. opponent
 20. hostile
 21. criticism
+### Upgraded language
+- learning a new language is a lasting change.
+- learning a new language is life-long journey that may require self-discipline and changes in old habits
