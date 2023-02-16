@@ -68,7 +68,7 @@
     </tr>
     <tr>
         <td rowspan="3">Closing</td>
-        <td>If you need any futher information, please do not hesitate to contact me.</td>
+        <td>If you need any further information, please do not hesitate to contact me.</td>
         <td>If you need any more information, just let me know.</td>
     </tr>
     <tr>
