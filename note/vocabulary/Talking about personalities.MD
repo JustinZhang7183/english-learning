@@ -1,0 +1,40 @@
+# Key words and phrases classified
+- extroverts
+    - outgoing
+    - impulsive
+- introverts
+    - self-contained
+    - reserved
+    - focused
+- sensors
+    - sensible
+    - pragmatic
+    - methodical
+    - at steady pace
+- intuitives
+    - energetic
+    - creative
+    - focus on the big picture and on future possibilities
+    - thoughtful
+    - instinct
+- thinker
+    - rational
+    - detached
+    - debate issues for fun
+- feelers
+    - instinctive in their decisions
+    - tactful
+    - diplomatic
+    - compliment
+- judgers
+    - determined
+    - conventional
+- perceivers
+    - indecisive
+    - flexible
+# Key words and phrases
+- make up my mind about
+- well-ordered
+- pay careful attention to 
+- imagination
+- intuition
