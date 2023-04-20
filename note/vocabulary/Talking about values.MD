@@ -1,0 +1,14 @@
+# Key words and phrases
+- integrity
+- responsibility
+- excellence
+- pioneering
+- unity
+- merit: a good feature that someone is judged on
+- competence: the ability to do something well
+- diversity: a range of different types of people
+- equality: the same level of rights as other people
+- dignity: maintaining a sense of your own value from the respect of others
+- respect: polite behaviour towards other people
+- tolerance: accepting other people's behaviour and opinions
+- mutual cooperation: helping other people who also help you
